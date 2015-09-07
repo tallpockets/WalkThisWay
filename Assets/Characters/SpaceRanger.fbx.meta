@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: b975c10cb38ff463a9af60f78cda67dc
+timeCreated: 1441581109
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Chester_skeleton
+    100002: Chester_skeleton (10)
+    100004: Chester_skeleton (11)
+    100006: Chester_skeleton (12)
+    100008: Chester_skeleton (13)
+    100010: Chester_skeleton (14)
+    100012: Chester_skeleton (15)
+    100014: Chester_skeleton (16)
+    100016: Chester_skeleton (17)
+    100018: Chester_skeleton (18)
+    100020: Chester_skeleton (2)
+    100022: Chester_skeleton (3)
+    100024: Chester_skeleton (4)
+    100026: Chester_skeleton (5)
+    100028: Chester_skeleton (6)
+    100030: Chester_skeleton (7)
+    100032: Chester_skeleton (8)
+    100034: Chester_skeleton (9)
+    100036: Skeleton_Chester_skeleton
+    100038: Skeleton_Chester_skeleton (2)
+    100040: Skeleton_Chester_skeleton (3)
+    100042: Skeleton_Chester_skeleton_L
+    100044: Skeleton_Chester_skeleton_L (10)
+    100046: Skeleton_Chester_skeleton_L (11)
+    100048: Skeleton_Chester_skeleton_L (12)
+    100050: Skeleton_Chester_skeleton_L (13)
+    100052: Skeleton_Chester_skeleton_L (14)
+    100054: Skeleton_Chester_skeleton_L (15)
+    100056: Skeleton_Chester_skeleton_L (16)
+    100058: Skeleton_Chester_skeleton_L (17)
+    100060: Skeleton_Chester_skeleton_L (18)
+    100062: Skeleton_Chester_skeleton_L (19)
+    100064: Skeleton_Chester_skeleton_L (2)
+    100066: Skeleton_Chester_skeleton_L (20)
+    100068: Skeleton_Chester_skeleton_L (21)
+    100070: Skeleton_Chester_skeleton_L (22)
+    100072: Skeleton_Chester_skeleton_L (3)
+    100074: Skeleton_Chester_skeleton_L (4)
+    100076: Skeleton_Chester_skeleton_L (5)
+    100078: Skeleton_Chester_skeleton_L (6)
+    100080: Skeleton_Chester_skeleton_L (7)
+    100082: Skeleton_Chester_skeleton_L (8)
+    100084: Skeleton_Chester_skeleton_L (9)
+    100086: Skeleton_Chester_skeleton_R
+    100088: Skeleton_Chester_skeleton_R (10)
+    100090: Skeleton_Chester_skeleton_R (11)
+    100092: Skeleton_Chester_skeleton_R (12)
+    100094: Skeleton_Chester_skeleton_R (13)
+    100096: Skeleton_Chester_skeleton_R (14)
+    100098: Skeleton_Chester_skeleton_R (15)
+    100100: Skeleton_Chester_skeleton_R (16)
+    100102: Skeleton_Chester_skeleton_R (17)
+    100104: Skeleton_Chester_skeleton_R (18)
+    100106: Skeleton_Chester_skeleton_R (19)
+    100108: Skeleton_Chester_skeleton_R (2)
+    100110: Skeleton_Chester_skeleton_R (20)
+    100112: Skeleton_Chester_skeleton_R (21)
+    100114: Skeleton_Chester_skeleton_R (22)
+    100116: Skeleton_Chester_skeleton_R (3)
+    100118: Skeleton_Chester_skeleton_R (4)
+    100120: Skeleton_Chester_skeleton_R (5)
+    100122: Skeleton_Chester_skeleton_R (6)
+    100124: Skeleton_Chester_skeleton_R (7)
+    100126: Skeleton_Chester_skeleton_R (8)
+    100128: Skeleton_Chester_skeleton_R (9)
+    100130: Space helmet
+    100132: //RootNode
+    100134: SpaceRanger Dude
+    400000: Chester_skeleton
+    400002: Chester_skeleton (10)
+    400004: Chester_skeleton (11)
+    400006: Chester_skeleton (12)
+    400008: Chester_skeleton (13)
+    400010: Chester_skeleton (14)
+    400012: Chester_skeleton (15)
+    400014: Chester_skeleton (16)
+    400016: Chester_skeleton (17)
+    400018: Chester_skeleton (18)
+    400020: Chester_skeleton (2)
+    400022: Chester_skeleton (3)
+    400024: Chester_skeleton (4)
+    400026: Chester_skeleton (5)
+    400028: Chester_skeleton (6)
+    400030: Chester_skeleton (7)
+    400032: Chester_skeleton (8)
+    400034: Chester_skeleton (9)
+    400036: Skeleton_Chester_skeleton
+    400038: Skeleton_Chester_skeleton (2)
+    400040: Skeleton_Chester_skeleton (3)
+    400042: Skeleton_Chester_skeleton_L
+    400044: Skeleton_Chester_skeleton_L (10)
+    400046: Skeleton_Chester_skeleton_L (11)
+    400048: Skeleton_Chester_skeleton_L (12)
+    400050: Skeleton_Chester_skeleton_L (13)
+    400052: Skeleton_Chester_skeleton_L (14)
+    400054: Skeleton_Chester_skeleton_L (15)
+    400056: Skeleton_Chester_skeleton_L (16)
+    400058: Skeleton_Chester_skeleton_L (17)
+    400060: Skeleton_Chester_skeleton_L (18)
+    400062: Skeleton_Chester_skeleton_L (19)
+    400064: Skeleton_Chester_skeleton_L (2)
+    400066: Skeleton_Chester_skeleton_L (20)
+    400068: Skeleton_Chester_skeleton_L (21)
+    400070: Skeleton_Chester_skeleton_L (22)
+    400072: Skeleton_Chester_skeleton_L (3)
+    400074: Skeleton_Chester_skeleton_L (4)
+    400076: Skeleton_Chester_skeleton_L (5)
+    400078: Skeleton_Chester_skeleton_L (6)
+    400080: Skeleton_Chester_skeleton_L (7)
+    400082: Skeleton_Chester_skeleton_L (8)
+    400084: Skeleton_Chester_skeleton_L (9)
+    400086: Skeleton_Chester_skeleton_R
+    400088: Skeleton_Chester_skeleton_R (10)
+    400090: Skeleton_Chester_skeleton_R (11)
+    400092: Skeleton_Chester_skeleton_R (12)
+    400094: Skeleton_Chester_skeleton_R (13)
+    400096: Skeleton_Chester_skeleton_R (14)
+    400098: Skeleton_Chester_skeleton_R (15)
+    400100: Skeleton_Chester_skeleton_R (16)
+    400102: Skeleton_Chester_skeleton_R (17)
+    400104: Skeleton_Chester_skeleton_R (18)
+    400106: Skeleton_Chester_skeleton_R (19)
+    400108: Skeleton_Chester_skeleton_R (2)
+    400110: Skeleton_Chester_skeleton_R (20)
+    400112: Skeleton_Chester_skeleton_R (21)
+    400114: Skeleton_Chester_skeleton_R (22)
+    400116: Skeleton_Chester_skeleton_R (3)
+    400118: Skeleton_Chester_skeleton_R (4)
+    400120: Skeleton_Chester_skeleton_R (5)
+    400122: Skeleton_Chester_skeleton_R (6)
+    400124: Skeleton_Chester_skeleton_R (7)
+    400126: Skeleton_Chester_skeleton_R (8)
+    400128: Skeleton_Chester_skeleton_R (9)
+    400130: Space helmet
+    400132: //RootNode
+    400134: SpaceRanger Dude
+    4300000: SpaceRanger Dude
+    4300002: Space helmet
+    9500000: //RootNode
+    13700000: Space helmet
+    13700002: SpaceRanger Dude
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Chester_skeleton (12)
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (13)
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (17)
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (18)
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (21)
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (17)
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (20)
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (8)
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (2)
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (7)
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (4)
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (22)
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (15)
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (15)
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (8)
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (8)
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (22)
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (5)
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (16)
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton (2)
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (19)
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (7)
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (13)
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (16)
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (10)
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (3)
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (6)
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (12)
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_L (21)
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (18)
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (11)
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (4)
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (14)
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (13)
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (7)
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (6)
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (5)
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (9)
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (12)
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (11)
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_Chester_skeleton_R (9)
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (5)
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chester_skeleton (4)
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SpaceRanger(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Space helmet
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SpaceRanger Dude
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chester_skeleton (12)
+      position: {x: 0, y: 1.03400004, z: -.163000107}
+      rotation: {x: -4.27768896e-08, y: .566596866, z: .823995173, w: 6.22099066e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chester_skeleton (8)
+      position: {x: -0, y: 0, z: .128514588}
+      rotation: {x: .16205135, y: -1.77635684e-14, z: 1.24344979e-14, w: .986782372}
+      scale: {x: .999999762, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Chester_skeleton (2)
+      position: {x: 4.73150354e-17, y: 2.77555756e-17, z: .148121566}
+      rotation: {x: .0787319764, y: 0, z: -1.77635663e-15, w: .99689579}
+      scale: {x: .999999762, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Chester_skeleton
+      position: {x: 1.42158717e-16, y: .00665995106, z: .210664764}
+      rotation: {x: -.147522122, y: -2.85223596e-08, z: 4.25423252e-09, w: .989058852}
+      scale: {x: 1.0000006, y: 1.00000048, z: 1.00000036}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton
+      position: {x: -0, y: -5.55111512e-17, z: .106705166}
+      rotation: {x: -.112697974, y: 2.86541635e-08, z: 3.24995453e-09, w: .993629277}
+      scale: {x: .999999881, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: Chester_skeleton (7)
+      position: {x: 7.06708043e-17, y: -.00590878958, z: .0747133568}
+      rotation: {x: .216247171, y: 9.94176741e-09, z: 2.20197882e-09, w: .976338625}
+      scale: {x: .999999523, y: .999999225, z: .999999583}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton (3)
+      position: {x: -4.63221143e-23, y: -6.9388939e-18, z: .161077604}
+      rotation: {x: .043018125, y: -1.01732693e-08, z: 4.38040298e-10, w: .99907434}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton (2)
+      position: {x: -1.16657725e-10, y: .0516645275, z: -.0116093084}
+      rotation: {x: 4.5322885e-08, y: -.866669893, z: -.498882174, w: -6.98400981e-08}
+      scale: {x: 1.00000024, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: Chester_skeleton (15)
+      position: {x: -1.24176036e-16, y: 6.66133815e-16, z: .128648579}
+      rotation: {x: 2.15933227e-09, y: .0286012273, z: .999590933, w: -7.54670211e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R
+      position: {x: -.0959999636, y: -.0295266025, z: .0515664704}
+      rotation: {x: .609235287, y: -.510273695, z: -.539535224, w: .2781277}
+      scale: {x: .999999821, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (15)
+      position: {x: -.000418010633, y: .00183167926, z: .110146016}
+      rotation: {x: -.13798973, y: .0699488521, z: .0966156125, w: .983224988}
+      scale: {x: .999999523, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (8)
+      position: {x: 9.71122608e-06, y: .000946864602, z: .30250138}
+      rotation: {x: -.0303029567, y: .00714382483, z: .721157908, w: .692070782}
+      scale: {x: .999999821, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (22)
+      position: {x: -.00355931185, y: .00577455014, z: .304476142}
+      rotation: {x: -.0654104427, y: .0667372644, z: .936194181, w: -.338833392}
+      scale: {x: 1.00000119, y: .999999702, z: 1.00000024}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (7)
+      position: {x: -0, y: 2.77555756e-17, z: .127422526}
+      rotation: {x: -.0610222295, y: -.0392589942, z: -.264162689, w: -.961744845}
+      scale: {x: .999999702, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (6)
+      position: {x: -0, y: -2.77555756e-17, z: .0451359078}
+      rotation: {x: .0243796166, y: -9.21231331e-05, z: .0478799343, w: .998555541}
+      scale: {x: .999999702, y: .999999523, z: .999999404}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (5)
+      position: {x: 3.33066907e-16, y: 2.77555756e-16, z: .0324047543}
+      rotation: {x: .0381524749, y: -.00212590955, z: .0185146313, w: .999098182}
+      scale: {x: .999999762, y: 1.00000072, z: 1.00000012}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (3)
+      position: {x: -0, y: 1.11022302e-16, z: .022513153}
+      rotation: {x: .027929103, y: .0666411966, z: .0291419327, w: .996960223}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (4)
+      position: {x: -.025399128, y: -.021924464, z: .130496934}
+      rotation: {x: -.0662356019, y: -.0173012111, z: -.375795424, w: -.924170673}
+      scale: {x: 1, y: .999999523, z: .999999583}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (14)
+      position: {x: -1.11022302e-16, y: 1.11022302e-16, z: .0303084683}
+      rotation: {x: .0385762043, y: .000780881965, z: -.0259695072, w: .998917878}
+      scale: {x: .999999821, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (13)
+      position: {x: -0, y: -5.82867088e-16, z: .0215052627}
+      rotation: {x: .0311563239, y: -.000819881796, z: .034637358, w: .998913825}
+      scale: {x: 1.00000012, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Chester_skeleton (10)
+      position: {x: 4.4408921e-16, y: 4.4408921e-16, z: .0269277133}
+      rotation: {x: .05971241, y: -.107213542, z: -.0977571532, w: .98761493}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chester_skeleton (9)
+      position: {x: .0165414438, y: .022942571, z: .122765087}
+      rotation: {x: -.0163507704, y: -.0161606129, z: -.343677789, w: -.938806176}
+      scale: {x: .999999881, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (12)
+      position: {x: .00101652031, y: -.00393094076, z: .0463431105}
+      rotation: {x: .0694206208, y: .0127891023, z: -.0666657314, w: .995275378}
+      scale: {x: 1, y: 1.00000048, z: .999999344}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (11)
+      position: {x: 5.55111512e-17, y: -1.11022302e-16, z: .0294151325}
+      rotation: {x: .0355405584, y: -.00136375346, z: -.00157812517, w: .999366045}
+      scale: {x: .999999762, y: .999999583, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (10)
+      position: {x: -0, y: 0, z: .025524497}
+      rotation: {x: -.072876215, y: .0375598297, z: .0370007232, w: .995946407}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (9)
+      position: {x: .0429965071, y: .027857434, z: .103281036}
+      rotation: {x: -.048430562, y: -.0411041901, z: -.308803827, w: -.949002206}
+      scale: {x: .999999583, y: .999999523, z: .999999881}
+      transformModified: 1
+    - name: Chester_skeleton (5)
+      position: {x: -3.88578059e-16, y: -5.55111512e-16, z: .0399256721}
+      rotation: {x: .0293857642, y: -.0118655944, z: -.000456984912, w: .999497592}
+      scale: {x: .999999881, y: 1.00000036, z: .999999285}
+      transformModified: 1
+    - name: Chester_skeleton (4)
+      position: {x: .000671992428, y: .000280406268, z: .0261820592}
+      rotation: {x: .018137861, y: .025555633, z: -.0806317627, w: .996251225}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: Chester_skeleton (16)
+      position: {x: -.000487201847, y: -.000474352739, z: .0250260904}
+      rotation: {x: .0829739273, y: -.0113817593, z: .0184232909, w: .996316373}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (18)
+      position: {x: -.00539297564, y: -.0437240601, z: .0378720537}
+      rotation: {x: .040324755, y: .156064987, z: -.901821613, w: -.400918305}
+      scale: {x: .999999523, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (19)
+      position: {x: -.00132294954, y: .0168390069, z: .0566380359}
+      rotation: {x: .19510062, y: -.0457406454, z: -.0044763824, w: .97970587}
+      scale: {x: .999999881, y: .999999583, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (17)
+      position: {x: -.00671566837, y: .00196775771, z: .0422051847}
+      rotation: {x: -.109834112, y: .0342393965, z: .0448900275, w: .992345214}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (4)
+      position: {x: .0960000306, y: -.0295265745, z: .0515664555}
+      rotation: {x: -.552639902, y: .571083486, z: -.316093385, w: .518206298}
+      scale: {x: .999999881, y: .999999642, z: .999999821}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (22)
+      position: {x: -.000151745291, y: -.00187263335, z: .110146016}
+      rotation: {x: -.161102593, y: -.0707664937, z: -.0319091976, w: -.983880043}
+      scale: {x: .99999994, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (15)
+      position: {x: .000730727741, y: .013031642, z: .302751124}
+      rotation: {x: -.0263808612, y: -.016445186, z: .682649672, w: .73008424}
+      scale: {x: 1, y: 1, z: .999999702}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (8)
+      position: {x: -.00163698709, y: -.00164519215, z: .306085438}
+      rotation: {x: .0796063766, y: -.0271173362, z: .758357227, w: -.646391332}
+      scale: {x: 1.00000048, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (13)
+      position: {x: 1.11022302e-16, y: 1.11022302e-16, z: .127422526}
+      rotation: {x: .0026058543, y: -.0725120828, z: -.996000648, w: .0521335751}
+      scale: {x: .999999702, y: .999999464, z: 1.00000012}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (16)
+      position: {x: -0, y: -5.55111512e-17, z: .0451359078}
+      rotation: {x: .0241358038, y: .00344723533, z: .101099923, w: .994577467}
+      scale: {x: 1.00000024, y: 1.00000072, z: .999999225}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (10)
+      position: {x: 1.11022302e-16, y: -1.66533454e-16, z: .0324047543}
+      rotation: {x: .0382142738, y: -.000431352179, z: .0372079238, w: .998576522}
+      scale: {x: .999999881, y: .999999404, z: .999999881}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (14)
+      position: {x: -0, y: 0, z: .022513153}
+      rotation: {x: -.000965548563, y: .0253941882, z: -.00165111909, w: .999675691}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (19)
+      position: {x: -.0327742249, y: -.00718667265, z: .130496934}
+      rotation: {x: .0172906779, y: -.0662389696, z: -.997177005, w: .0308462791}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999999464}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L
+      position: {x: -2.22044605e-16, y: 2.77555756e-17, z: .0303084683}
+      rotation: {x: .0385828875, y: -.000638939266, z: .11565347, w: .992539823}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (7)
+      position: {x: -0, y: -2.35922393e-16, z: .0215052627}
+      rotation: {x: .030501686, y: .000106880361, z: .0507698394, w: .998244464}
+      scale: {x: .999999762, y: 1.00000024, z: .999998868}
+      transformModified: 1
+    - name: Chester_skeleton (6)
+      position: {x: -2.22044605e-16, y: 1.11022302e-16, z: .0269277133}
+      rotation: {x: -.0502963252, y: .0148813585, z: -.0507320836, w: .997334003}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chester_skeleton (3)
+      position: {x: .0285219233, y: .00486085285, z: .122613706}
+      rotation: {x: -.0164098423, y: -.0665890276, z: -.986943603, w: .145736232}
+      scale: {x: 1.00000048, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (6)
+      position: {x: -2.22044605e-16, y: 0, z: .0428106301}
+      rotation: {x: .0262600277, y: -.000760781404, z: .0219621602, w: .99941355}
+      scale: {x: .999999762, y: 1, z: .999999523}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (12)
+      position: {x: -0, y: -1.11022302e-16, z: .0294151325}
+      rotation: {x: .0355335437, y: .00141819031, z: .0296440087, w: .998927772}
+      scale: {x: 1.00000012, y: 1.0000006, z: 1.00000012}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (3)
+      position: {x: -0, y: 0, z: .025524497}
+      rotation: {x: -.0302738119, y: .0159291457, z: -.032271307, w: .998893559}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (21)
+      position: {x: .0480719395, y: .0177150834, z: .103281036}
+      rotation: {x: -.0146286124, y: -.0611271411, z: -.974638045, w: .214779407}
+      scale: {x: 1.00000024, y: .999999583, z: .999999881}
+      transformModified: 1
+    - name: Chester_skeleton (18)
+      position: {x: -6.10622664e-16, y: -2.22044605e-16, z: .0399256721}
+      rotation: {x: .0364256091, y: .0289707519, z: .0345208123, w: .998319685}
+      scale: {x: .999999881, y: 1.00000095, z: .999999225}
+      transformModified: 1
+    - name: Chester_skeleton (11)
+      position: {x: -.00166525505, y: .000707508298, z: .0262264982}
+      rotation: {x: .0101087764, y: -.0680327863, z: -.0542096123, w: .996157944}
+      scale: {x: 1.00000012, y: .999999821, z: 1.00000024}
+      transformModified: 1
+    - name: Chester_skeleton (14)
+      position: {x: .00166930759, y: -.000454712048, z: .0249728952}
+      rotation: {x: -.0540611334, y: .054790169, z: .123225436, w: .989389181}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (20)
+      position: {x: -.0611933917, y: .0260864682, z: .0435558781}
+      rotation: {x: .13039659, y: .0947582871, z: -.814506054, w: -.557312846}
+      scale: {x: .999999404, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (2)
+      position: {x: -0, y: -3.33066907e-16, z: .0443001129}
+      rotation: {x: .199827909, y: .0150079373, z: -.0166049041, w: .979575396}
+      scale: {x: .99999994, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (9)
+      position: {x: -0, y: 1.11022302e-16, z: .0420386717}
+      rotation: {x: -.0964203328, y: .0625192076, z: .0205211025, w: .993163347}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chester_skeleton (13)
+      position: {x: .118000001, y: .0869982764, z: -.00306312484}
+      rotation: {x: -.00517282542, y: -.97114718, z: -.236052424, w: -.0335504599}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (18)
+      position: {x: .0155843627, y: .00396836735, z: .496567398}
+      rotation: {x: .132728666, y: .00999823026, z: -.00105070695, w: .991101444}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (17)
+      position: {x: -.0163054839, y: .00455981726, z: .41656974}
+      rotation: {x: -.627421916, y: -.00542298052, z: .0209686831, w: .778378189}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (5)
+      position: {x: -.00213015173, y: -.0225073025, z: .182005197}
+      rotation: {x: -.167554602, y: .00627039187, z: -.0475879274, w: .984693646}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_L (11)
+      position: {x: .000971040688, y: 5.74183468e-05, z: .0660306737}
+      rotation: {x: -.0403797813, y: .717491686, z: .693647385, w: -.0492792279}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chester_skeleton (17)
+      position: {x: -.118000001, y: .0869982764, z: -.00306312484}
+      rotation: {x: .0108390311, y: -.971100509, z: -.236244172, w: .0321727209}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (21)
+      position: {x: -.00964340847, y: .00382131664, z: .496973038}
+      rotation: {x: .132711992, y: -.0102186501, z: .0142614171, w: .990999401}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (20)
+      position: {x: .0103787454, y: .00435993401, z: .41628626}
+      rotation: {x: -.627443135, y: -.00171515462, z: -.0414826386, w: .777554691}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (16)
+      position: {x: -.00156314485, y: -.0224753302, z: .181831703}
+      rotation: {x: -.164876178, y: -.0304906592, z: -.0585495606, w: .984102666}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Skeleton_Chester_skeleton_R (2)
+      position: {x: -.000954468094, y: -.00018763695, z: .0660306737}
+      rotation: {x: .027485935, y: -.00618862035, z: .0842668936, w: .996044874}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
