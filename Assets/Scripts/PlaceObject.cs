@@ -4,10 +4,17 @@ using System.Collections;
 public class PlaceObject : MonoBehaviour {
 
 	public GameObject mObjectToPlace;
-	public Vector3 mGridSize;
+	public Vector3 mTerrainGridSize;
+
 	// Use this for initialization
+
 	void Start () {
-	
+
+		if(mTerrainGridSize.magnitude == 0)
+		{
+			Debug.Log("no terrain size specified, setting to 1");
+			mTerrainGridSize = new Vector3(1f,1f,1f);
+		}
 	}
 	
 	// Update is called once per frame
@@ -25,14 +32,19 @@ public class PlaceObject : MonoBehaviour {
 					MeshRenderer mr = c.gameObject.GetComponent<MeshRenderer>();
 					Bounds br = mr.bounds;
 					Vector3 p = rayHit.point;
-					float length = Mathf.Floor(p.x/(br.size.x/mGridSize.x));
-					float height = Mathf.Floor(p.y/(br.size.y/mGridSize.y));
-					float depth = Mathf.Floor(p.z/(br.size.z/mGridSize.z));
-					Vector3 finalPos = new Vector3(length * (br.size.x/mGridSize.x),height* (br.size.y/mGridSize.y),depth * (br.size.z/mGridSize.z));
-					Vector3 offset = new Vector3((br.size.x/mGridSize.x)/2f,(br.size.y/mGridSize.y)/2f,(br.size.z/mGridSize.z)/2f);
+					float lengthGrid = (br.size.x/mTerrainGridSize.x);
+					float heightGrid = (br.size.y/mTerrainGridSize.y);
+					float depthGrid = (br.size.z/mTerrainGridSize.z);
+					float length = Mathf.Floor(p.x/lengthGrid);
+					float height = Mathf.Floor(p.y/heightGrid);
+					float depth = Mathf.Floor(p.z/depthGrid);
+					Vector3 finalPos = new Vector3(length * lengthGrid,height * heightGrid, depth * depthGrid);
+					Vector3 offset = new Vector3(lengthGrid/2f,heightGrid/2f,depthGrid/2f);
 					finalPos = finalPos + offset;
 
-					Instantiate(mObjectToPlace, finalPos, new Quaternion(0,0,0,0));
+					if(mObjectToPlace != null)
+						Instantiate(mObjectToPlace, finalPos, new Quaternion(0,0,0,0));
+
 				} else if(c.gameObject.tag == "PlacedObject")
 				{
 					GameObject.Destroy(c.gameObject);
@@ -41,12 +53,6 @@ public class PlaceObject : MonoBehaviour {
 
 		}
 	}
-
-	void CreateCube()
-	{
-	
-	}
-
 
 
 }

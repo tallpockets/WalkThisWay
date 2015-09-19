@@ -800,7 +800,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mObjectToPlace: {fileID: 180636, guid: e85cfd3b64d1d4842addc7b286083563, type: 2}
-  mGridSize: {x: 187, y: 20, z: 20}
+  mTerrainGridSize: {x: 187, y: 20, z: 20}
 --- !u!1 &731742677
 GameObject:
   m_ObjectHideFlags: 0
